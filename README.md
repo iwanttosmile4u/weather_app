@@ -1,9 +1,12 @@
-# React TypeScript Starter Pack
+## Weather app
 
-To use this template click `Use this template`
+Select some city and you'll see card with temperature for this city.
 
-### Available Scripts
+[DEMO LINK](https://iwanttosmile4u.github.io/weather_app/)
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+### Technologies, which I used: 
+- React
+- Redux toolkit
+- Redux thunk
+- TypeScript
+- Material UI 
